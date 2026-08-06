@@ -13,5 +13,4 @@ Good Easy Credit Checker is a lightweight tool designed to help users quickly ch
 ✅ Beginner‑friendly setup and usage
 
 ✅ Open for contributions and improvements
-   
-   easy to find
+
